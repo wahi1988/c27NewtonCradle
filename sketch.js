@@ -14,7 +14,7 @@ var stand;
 
 function preload(){
   bgImg = loadImage("bg.jpg");
-  nameImg = loadImage("nameCard.png")
+  nameImg = loadImage("NameCard.png")
 }
 
 function setup() {
